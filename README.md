@@ -1,5 +1,6 @@
 # Create and Retrieve with Flask-RESTful
 
+# This creates RESTful API endpoint!
 ## Learning Goals
 
 - Build RESTful APIs that are easy to navigate and use in applications.
